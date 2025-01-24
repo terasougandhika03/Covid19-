@@ -12,8 +12,7 @@ SELECT * FROM CovidVaccinations;
 
 /*
 Covid-19 Data Exploration
-
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+Performed Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 */
 
 -- Select all data from the CovidDeaths table where continent is not NULL, ordered by columns 3 (likely date) and 4
